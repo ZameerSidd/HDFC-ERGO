@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "80007208388",
+    "firebase_url": "https://fir-36da0-default-rtdb.firebaseio.com",
+    "project_id": "fir-36da0",
+    "storage_bucket": "fir-36da0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80007208388:android:6f1e33a71320e2d6a05891",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80007208388-muhl91306qu7mtm0afbboi6qhac8eig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20EiYvxfmQWkYwsCofDkJnY3ZlHNnfKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80007208388-muhl91306qu7mtm0afbboi6qhac8eig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80007208388:android:7745c89991bbfa05a05891",
+        "android_client_info": {
+          "package_name": "com.example.hdfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80007208388-muhl91306qu7mtm0afbboi6qhac8eig9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20EiYvxfmQWkYwsCofDkJnY3ZlHNnfKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80007208388-muhl91306qu7mtm0afbboi6qhac8eig9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
